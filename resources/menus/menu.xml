@@ -1,0 +1,11 @@
+<menus>
+	<menu id="MainMenu">
+    	<menu-item id="item_1">@Strings.menu_label_1</menu-item>
+    	<menu-item id="item_2">@Strings.menu_label_2</menu-item>
+	</menu>
+	<menu id="GameTypeMenu">
+		<menu-item id="Solo">@Strings.Solo</menu-item>
+		<menu-item id="Duo">@Strings.Duo</menu-item>
+		<menu-item id="Squad">@Strings.Squad</menu-item>)
+	</menu>
+</menus>

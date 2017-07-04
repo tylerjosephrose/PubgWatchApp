@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">PUBG</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+    
+    <string id="Solo">Solo</string>
+    <string id="Duo">Duo</string>
+    <string id="Squad">Squad</string>
+</strings>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="11" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="12" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="18" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="22" pc="268435526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="24" pc="268435530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="25" pc="268435550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="31" pc="268435563" symbol="onHide"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="35" pc="268435568" symbol="onReceieve"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="36" pc="268435572" symbol="onReceieve"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="37" pc="268435583" symbol="onReceieve"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="38" pc="268435606" symbol="onReceieve"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="39" pc="268435632" symbol="onReceieve"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="42" pc="268435655" symbol="onReceieve"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="43" pc="268435681" symbol="onReceieve"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="48" pc="268435702" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="50" pc="268435706" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="52" pc="268435713" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="54" pc="268435747" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="70" pc="268435801" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGView.mc" lineNum="88" pc="268435859" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGMenuDelegate.mc" lineNum="6" pc="268435898" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGMenuDelegate.mc" lineNum="7" pc="268435902" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGMenuDelegate.mc" lineNum="10" pc="268435921" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGMenuDelegate.mc" lineNum="11" pc="268435925" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGMenuDelegate.mc" lineNum="12" pc="268435936" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGMenuDelegate.mc" lineNum="14" pc="268435971" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGMenuDelegate.mc" lineNum="16" pc="268436006" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGDelegate.mc" lineNum="5" pc="268436031" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGDelegate.mc" lineNum="6" pc="268436035" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGDelegate.mc" lineNum="9" pc="268436054" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGDelegate.mc" lineNum="10" pc="268436058" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGDelegate.mc" lineNum="11" pc="268436142" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGApp.mc" lineNum="6" pc="268436146" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGApp.mc" lineNum="7" pc="268436150" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGApp.mc" lineNum="11" pc="268436169" symbol="onStart"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGApp.mc" lineNum="15" pc="268436174" symbol="onStop"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGApp.mc" lineNum="19" pc="268436179" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\PUBG\\source\\PUBGApp.mc" lineNum="20" pc="268436183" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="18" pc="268436251" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268436255" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268436273" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268436325" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268436378" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268436382" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268436400" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268436452" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268436504" symbol="initialize"/>
+<entry filename="Rez" lineNum="49" pc="268436557" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268436569" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268436732" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="53" pc="268436757" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="56" pc="268436809" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268436827" symbol="PUBGStats"/>
+<entry filename="Rez" lineNum="67" pc="268436839" symbol="PUBGStats"/>
+<entry filename="Rez" lineNum="68" pc="268436974" symbol="PUBGStats"/>
+<entry filename="Rez" lineNum="69" pc="268436999" symbol="PUBGStats"/>
+<entry filename="Rez" lineNum="70" pc="268437051" symbol="PUBGStats"/>
+<entry filename="Rez" lineNum="71" pc="268437186" symbol="PUBGStats"/>
+<entry filename="Rez" lineNum="72" pc="268437211" symbol="PUBGStats"/>
+<entry filename="Rez" lineNum="75" pc="268437263" symbol="PUBGStats"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="17" object="true" symbol="GameTypeMenu"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="19" method="true" symbol="PUBGStats"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry field="true" id="23" symbol="Squad"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="18" method="true" symbol="MainLayout"/>
+<entry id="11" object="true" symbol="PUBGDelegate"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry id="28" method="true" symbol="makeRequest"/>
+<entry id="8389594" symbol="headers"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="12" object="true" symbol="PUBGApp"/>
+<entry id="30" symbol="item_2"/>
+<entry id="29" symbol="item_1"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="26" symbol="Duo"/>
+<entry field="true" id="22" symbol="menu_label_2"/>
+<entry field="true" id="20" symbol="menu_label_1"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry field="true" id="24" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="9" object="true" symbol="PUBGView"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="27" method="true" symbol="onReceieve"/>
+<entry id="8389346" symbol="text"/>
+<entry id="10" object="true" symbol="PUBGMenuDelegate"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="21" symbol="Solo"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435563" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435702" name="responseCode" stackId="1" startPc="268435568"/>
+<entry endPc="268435702" name="data" stackId="2" startPc="268435568"/>
+<entry endPc="268435897" name="options" stackId="4" startPc="268435706"/>
+<entry endPc="268435897" name="url" stackId="1" startPc="268435706"/>
+<entry endPc="268435897" name="headers" stackId="3" startPc="268435706"/>
+<entry endPc="268435897" name="param" stackId="2" startPc="268435706"/>
+<entry endPc="268436031" name="item" stackId="1" startPc="268435921"/>
+<entry endPc="268436174" name="state" stackId="1" startPc="268436169"/>
+<entry endPc="268436179" name="state" stackId="1" startPc="268436174"/>
+<entry endPc="268436826" name="rez_cmp_local_bitmap_IRV1JGX8I5_fontHeight" stackId="3" startPc="268436569"/>
+<entry endPc="268436826" name="rez_cmp_local_bitmap_IRV1JGX8I5" stackId="2" startPc="268436569"/>
+<entry endPc="268436827" name="dc" stackId="1" startPc="268436557"/>
+<entry endPc="268437290" name="rez_cmp_local_bitmap_IMTOXVMBVE" stackId="4" startPc="268436839"/>
+<entry endPc="268437290" name="rez_cmp_local_bitmap_5HW442JNA5_fontHeight" stackId="3" startPc="268436839"/>
+<entry endPc="268437290" name="rez_cmp_local_bitmap_5HW442JNA5" stackId="2" startPc="268436839"/>
+<entry endPc="268437290" name="rez_cmp_local_bitmap_IMTOXVMBVE_fontHeight" stackId="5" startPc="268436839"/>
+<entry endPc="268437291" name="dc" stackId="1" startPc="268436827"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PUBGView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PUBGView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PUBGView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PUBGView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PUBGView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceieve" parent="PUBGView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeRequest" parent="PUBGView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PUBGMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="PUBGMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PUBGDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="PUBGDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PUBGApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="PUBGApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="PUBGApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PUBGApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="GameTypeMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="PUBGStats" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="198" parentId="globals" symbolId="PUBGApp" type="class"/>
+<dataEntry offset="269" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="348" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="387" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="434" parentId="Menus" symbolId="GameTypeMenu" type="class"/>
+<dataEntry offset="481" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="528" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="559" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="590" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="637" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="724" parentId="globals" symbolId="PUBGView" type="class"/>
+<dataEntry offset="819" parentId="globals" symbolId="PUBGDelegate" type="class"/>
+<dataEntry offset="874" parentId="globals" symbolId="PUBGMenuDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

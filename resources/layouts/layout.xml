@@ -1,0 +1,11 @@
+<layouts>
+	<layout id="MainLayout">
+    	<label x="center" y="5" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    	<!-- <bitmap id="id_monkey" x="center" y="30"/> -->
+    </layout>
+    <layout id="PUBGStats">
+    	<label x="center" y="5" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" /><!--This is for the Player name-->
+    	<label x="center" y="5" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" /><!--This is for the game mode type (Squad, Duo, Solo)-->
+    </layout>
+</layouts>
+    
